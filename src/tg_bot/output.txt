@@ -1,0 +1,1 @@
+{"author":"Gavin Russell Baker","id":40,"quote":"C++ : Where friends have access to your private members.","permalink":"http://quotes.stormconsultancy.co.uk/quotes/40"}
