@@ -12,8 +12,8 @@ import (
 )
 
 const (
-	TOKEN = "915047724:AAFWib8ZRl3OsVOzDrS0Pug_S3LQ79hTMlo"
-	PROXY = "socks5://192.169.152.231:31403"
+	TOKEN = "YOUR_TOKEN"
+	PROXY = "socks5://999.999.999.999:9999"
 )
 
 func getHelp() string {
